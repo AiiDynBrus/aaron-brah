@@ -1,0 +1,42 @@
+Homework for this week.
+
+1. Read Splitting a Project Lecture
+
+2.
+   a. What is a Parameter? 
+			 Parameter is a kind of variable that breaks pieces of data that is provided to the coder and those pieces are called arguments. Like a parameter is kind of like a property of the procedure and can be made into many different languages.
+   
+   b. What is an argument?
+			 Kind of explained it above but, am argument is like an expression, and the expression is then passed to the parameter when it is called. 
+   
+   c. What are the differences between an argument and a parameter?
+			 An argument is an expression in a function call, and a parameter is an object or reference that is declared in a function or definiton.
+3.
+   a. What is a function?
+			 A function is like the name of a procedure that performs a distincit serice. The language that requests the function is called a function call and a programmer can specify by typing out these provided functions.
+   
+   b. what is a constructor?
+			 A constructor resembles a istance method and it differs from a method and has no explicit return type. Constructors often have the same name as the declaring class and have a task of staring the objects data.
+   
+   c. what are the differences between the two?
+			 A constructor is used to create the instance of an object and is completely different from a function. Also there is no return statement in the body of the constructor.
+4. 
+   a. How do functions and constructors utilise and interact with parameters and arguments?
+			 A function needs a certain information well code to be able to do its work, The information is arguments or parameters and then its passed to the function by the player.
+   
+   b. why?
+			 Cause without Parameters or arguments you wouldn't have a game nothing would run.
+
+5. 
+   a. What are the differences between calling and creating a function?
+			 The main difference between creating and calling a function is, Creating is making an object appear on the screen and calling a function is a method of an object that is substituting another object for the current object.
+
+   b. What is a prototype?
+			 A prototype is an object which other objects inherit properties, that makes the process of adding custom properties and other methods to all other instances of an object.
+
+6. 
+   a. For what reasons do we create reusable objects/classes?
+			 If you want to use/build several objects when coding or programming with the same definition you can create a constructor that will allow you to define an object pattern and reuse it.
+   
+   b. Why as programmers is this prefferable?
+			 It helps the programmers to make their job alot easier and creating a resuable object or class because they can use it several times.
